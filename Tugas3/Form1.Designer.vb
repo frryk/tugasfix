@@ -94,7 +94,7 @@ Partial Class Form1
         Me.cmbJurusan.Items.AddRange(New Object() {"SISTEM INFORMASI", "TEKNIK INFORMATIKA", "TEKNIK INDUSTRI", "MANAJEMEN", "AKUNTANSI", "ILMU HUKUM", "ILMU KOMUNIKASI", "ADMINISTRASI NEGARA", "SASTRA INGGRIS", "BAHASA INGGRIS"})
         Me.cmbJurusan.Location = New System.Drawing.Point(112, 147)
         Me.cmbJurusan.Name = "cmbJurusan"
-        Me.cmbJurusan.Size = New System.Drawing.Size(165, 21)
+        Me.cmbJurusan.Size = New System.Drawing.Size(188, 21)
         Me.cmbJurusan.TabIndex = 19
         '
         'btnKeluar
@@ -163,7 +163,7 @@ Partial Class Form1
         '
         Me.txtEmail.Location = New System.Drawing.Point(506, 75)
         Me.txtEmail.Name = "txtEmail"
-        Me.txtEmail.Size = New System.Drawing.Size(100, 20)
+        Me.txtEmail.Size = New System.Drawing.Size(183, 20)
         Me.txtEmail.TabIndex = 10
         '
         'txtTelp
