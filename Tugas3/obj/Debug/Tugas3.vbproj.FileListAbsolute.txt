@@ -9,3 +9,7 @@ C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tuga
 C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.exe
 C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.xml
 C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.pdb
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas Pemograman Visual.exe.manifest
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas Pemograman Visual.application
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.exe.manifest
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.application
