@@ -1,11 +1,11 @@
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas3.exe.config
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas3.exe
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas3.pdb
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas3.xml
 C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.vbprojAssemblyReference.cache
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.Resources.resources
 C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.vbproj.GenerateResource.cache
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.exe
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.xml
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.pdb
-C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas3.Form1.resources
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas Pemograman Visual.exe.config
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas Pemograman Visual.exe
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas Pemograman Visual.pdb
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\bin\Debug\Tugas Pemograman Visual.xml
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\TugasPV.Form1.resources
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\TugasPV.Resources.resources
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.exe
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.xml
+C:\Users\ferku\Documents\Visual Studio 2019\Project\Tugas3\Tugas3\obj\Debug\Tugas Pemograman Visual.pdb

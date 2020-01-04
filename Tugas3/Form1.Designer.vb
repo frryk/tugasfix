@@ -23,6 +23,8 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.cmbJurusan = New System.Windows.Forms.ComboBox()
         Me.btnKeluar = New System.Windows.Forms.Button()
         Me.btnHapus = New System.Windows.Forms.Button()
         Me.btnBatal = New System.Windows.Forms.Button()
@@ -42,8 +44,7 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.DGV = New System.Windows.Forms.DataGridView()
-        Me.cmbJurusan = New System.Windows.Forms.ComboBox()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         CType(Me.DGV, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -76,6 +77,25 @@ Partial Class Form1
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Form Data"
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(37, 150)
+        Me.Label1.Name = "Label1"
+        Me.Label1.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.Label1.Size = New System.Drawing.Size(44, 13)
+        Me.Label1.TabIndex = 20
+        Me.Label1.Text = "Jurusan"
+        '
+        'cmbJurusan
+        '
+        Me.cmbJurusan.FormattingEnabled = True
+        Me.cmbJurusan.Items.AddRange(New Object() {"SISTEM INFORMASI", "TEKNIK INFORMATIKA", "TEKNIK INDUSTRI", "MANAJEMEN", "AKUNTANSI", "ILMU HUKUM", "ILMU KOMUNIKASI", "ADMINISTRASI NEGARA", "SASTRA INGGRIS", "BAHASA INGGRIS"})
+        Me.cmbJurusan.Location = New System.Drawing.Point(112, 147)
+        Me.cmbJurusan.Name = "cmbJurusan"
+        Me.cmbJurusan.Size = New System.Drawing.Size(165, 21)
+        Me.cmbJurusan.TabIndex = 19
         '
         'btnKeluar
         '
@@ -241,30 +261,21 @@ Partial Class Form1
         Me.DGV.Size = New System.Drawing.Size(747, 150)
         Me.DGV.TabIndex = 1
         '
-        'cmbJurusan
+        'Button1
         '
-        Me.cmbJurusan.FormattingEnabled = True
-        Me.cmbJurusan.Items.AddRange(New Object() {"SISTEM INFORMASI", "TEKNIK INFORMATIKA", "TEKNIK INDUSTRI", "MANAJEMEN", "AKUNTANSI", "ILMU HUKUM", "ILMU KOMUNIKASI", "ADMINISTRASI NEGARA", "SASTRA INGGRIS", "BAHASA INGGRIS"})
-        Me.cmbJurusan.Location = New System.Drawing.Point(112, 147)
-        Me.cmbJurusan.Name = "cmbJurusan"
-        Me.cmbJurusan.Size = New System.Drawing.Size(165, 21)
-        Me.cmbJurusan.TabIndex = 19
-        '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(37, 150)
-        Me.Label1.Name = "Label1"
-        Me.Label1.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.Label1.Size = New System.Drawing.Size(44, 13)
-        Me.Label1.TabIndex = 20
-        Me.Label1.Text = "Jurusan"
+        Me.Button1.Location = New System.Drawing.Point(9, 407)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(750, 23)
+        Me.Button1.TabIndex = 2
+        Me.Button1.Text = "Anggota Kelompok"
+        Me.Button1.UseVisualStyleBackColor = True
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(772, 412)
+        Me.ClientSize = New System.Drawing.Size(772, 442)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.DGV)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "Form1"
@@ -299,4 +310,5 @@ Partial Class Form1
     Friend WithEvents DGV As DataGridView
     Friend WithEvents cmbJurusan As ComboBox
     Friend WithEvents Label1 As Label
+    Friend WithEvents Button1 As Button
 End Class
