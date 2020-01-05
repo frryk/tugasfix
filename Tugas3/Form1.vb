@@ -134,6 +134,6 @@
 Arif Hernawan | 180210071
 Chania Aprilia Yonanta | 180210081
 Galih Pragasiwi | 180210091
-Windy")
+Windya Masril 180210024")
     End Sub
 End Class
